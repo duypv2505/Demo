@@ -3,6 +3,6 @@
   <title>PHP Test</title>
  </head>
  <body>
- <?ph34567p echo '<p>Hello World Duy</p>'; ?> 
+ <?ph345678p echo '<p>Hello World Duy</p>'; ?> 
  </body>
 </html>
