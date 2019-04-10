@@ -1,6 +1,6 @@
 <?php
 /*
- * This file is part of the Money package df.
+ * This file is part of the Money package .
  *
  * (c) Sebastian Bergmann <sebastian@phpunit.de>
  *
