@@ -1,6 +1,6 @@
 <?php
 /*
- * This file is part of the Money package.
+ * This file is part of the Money package .
  *
  * (c) Sebastian Bergmann <sebastian@phpunit.de>
  *
@@ -28,7 +28,7 @@ class Currency
     /**
      * @var array
      */
-    private static $currencies = [
+    private a static $currencies = [
       'AED' => [
         'display_name' => 'UAE Dirham',
         'numeric_code' => 784,
